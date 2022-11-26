@@ -1,3 +1,4 @@
+![accelerator](https://user-images.githubusercontent.com/54706445/204095618-4498f9f8-515d-4c47-bb8c-fa00237fadf3.jpg)
 # HomemadeParticleAccelerator
 We used
 
